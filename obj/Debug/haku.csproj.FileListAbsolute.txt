@@ -1,0 +1,8 @@
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\bin\Debug\System.Core.dll
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\obj\Debug\haku.csproj.AssemblyReference.cache
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\obj\Debug\haku.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\obj\Debug\haku.csproj.Up2Date
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\bin\Debug\haku2025726184257.dll
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\bin\Debug\haku2025726184257.pdb
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\obj\Debug\haku2025726184257.dll
+D:\Steam\steamapps\common\Chrono Ark\Mod\Mod Projects\haku\obj\Debug\haku2025726184257.pdb
