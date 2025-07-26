@@ -14,7 +14,7 @@ namespace haku
         public static string Buff_B_Haku_1 = "B_Haku_1";
 		/// <summary>
 		/// 根源之力
-		/// 当队友攻击后，哈克将会对所有敌人使用扇子进行一次追加攻击。
+		/// 使用技能后哈克将会对所有敌人使用扇子进行一次追加攻击。(仅队友生效)
 		/// </summary>
         public static string Buff_B_Haku_10 = "B_Haku_10";
 		/// <summary>

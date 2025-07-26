@@ -21,7 +21,7 @@ namespace haku
         public override void Init()
         {
             base.Init();
-            this.PlusPerStat.Damage = -4 * this.StackNum;
+            this.PlusPerStat.Damage = -5 * this.StackNum;
         }
     }
 }

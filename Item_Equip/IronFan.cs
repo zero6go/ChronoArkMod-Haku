@@ -22,7 +22,8 @@ namespace haku
         public override void Init()
         {
             base.Init();
-            this.PlusStat.atk = 3;
+            this.PlusStat.atk = 2;
+            this.PlusStat.reg = 2;
             this.PlusStat.cri = 10;
         }
     }
