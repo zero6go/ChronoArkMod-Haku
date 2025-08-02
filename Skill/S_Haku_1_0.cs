@@ -81,7 +81,7 @@ namespace haku
                 }
             }
             if (flag) 
-                this.BChar.Damage(this.BChar, (int)Misc.PerToNum((float)this.BChar.GetStat.maxhp, 30f), false, true, true, 0, false, false, false);
+                this.BChar.Damage(this.BChar, (int)Misc.PerToNum((float)this.BChar.GetStat.maxhp, 20f), false, true, true, 0, false, false, false);
             base.SkillUseSingle(SkillD, Targets);
             this.SkillBasePlus.Target_BaseDMG = this.Damage;
         }

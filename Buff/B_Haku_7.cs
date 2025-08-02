@@ -30,7 +30,7 @@ namespace haku
                     break;
                 }
             }
-            this.PlusStat.DMGTaken = (float)(0.5f * num);
+            this.PlusStat.DMGTaken = (float)(0.3f * num);
         }
         public void Hit(SkillParticle SP, int Dmg, bool Cri)
         {

@@ -40,11 +40,10 @@ namespace haku
                 }
             }
             BattleSystem.instance.AllyTeam.Add(Skill.TempSkill("S_Haku_1_0", this.BChar, this.BChar.MyTeam), true);
-            foreach (BattleChar BattleChar in BattleSystem.instance.EnemyTeam.GetAliveChars())
+            foreach (BattleChar BattleChar in BattleSystem.instance.AllyTeam.GetAliveChars())
             {
-                BattleChar.BuffAdd("B_Taunt", this.BChar);
-                BattleChar.BuffAdd("B_Taunt", this.BChar);
-                BattleChar.BuffAdd("B_Taunt", this.BChar);
+                if (BattleChar != this.BChar)
+                    BattleChar.BuffAdd("B_Haku_15", this.BChar);
             }
         }
         

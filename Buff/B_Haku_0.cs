@@ -18,13 +18,13 @@ namespace haku
     /// </summary>
     public class B_Haku_0 : Buff, IP_PlayerTurn
     {
-        float Percent = 0.5f;
+        float Percent = 0.3f;
         public override void Init()
         {
             base.Init();
-            this.PlusPerStat.Damage = (int)(0.5 * this.StackNum);
-            this.PlusPerStat.Heal = (int)(0.5 * this.StackNum);
-            this.PlusStat.def = (int)(0.2 * this.StackNum);
+            this.PlusPerStat.Damage = (int)(0.3 * this.StackNum);
+            this.PlusPerStat.Heal = (int)(0.3 * this.StackNum);
+            this.PlusStat.def = (int)(0.1 * this.StackNum);
         }
         public override string DescExtended(string desc)
         {

@@ -24,7 +24,7 @@ namespace haku
             base.Init();
             this.PlusStat.atk = 2;
             this.PlusStat.reg = 2;
-            this.PlusStat.cri = 10;
+            this.PlusStat.cri = 5;
         }
     }
 }

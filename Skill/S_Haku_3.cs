@@ -50,18 +50,27 @@ namespace haku
                 }
             }
 
-            bool flag = false;
+            int num = 0;
             foreach (ItemBase item in this.BChar.Info.Equip)
             {
                 if (item != null && item.itemkey == "IronFan")
                 {
-                    flag = true;
+                    num++;
                     break;
                 }
             }
-            if (!flag) return;
-            int num = this.BChar.GetBuffs(BattleChar.GETBUFFTYPE.BUFF, false, false).Count;
-            if (num > 3) num = 3;
+            GDEBuffData gDEBuffData3 = new GDEBuffData("B_Haku_0");
+            foreach (Buff buff in this.BChar.Buffs)
+            {
+                if (buff.BuffData.Key == gDEBuffData3.Key && !buff.DestroyBuff)
+                {
+                    if (buff.StackNum >= 100)
+                    {
+                        num++;
+                    }
+                    break;
+                }
+            }
             for (int i = 0; i < num; i++)
             {
                 BattleSystem.DelayInputAfter(this.Effect());

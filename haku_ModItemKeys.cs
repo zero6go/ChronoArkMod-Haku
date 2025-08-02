@@ -5,7 +5,7 @@ namespace haku
     {
 		/// <summary>
 		/// 虚伪的假面
-		/// 与假面的融合度，每层会使哈克在回合开始时受到最大生命值0.5%的伤害，如果哈克装备了某个特殊装备则不会受到此负面效果。
+		/// 与假面的融合度，每层会使哈克在回合开始时受到最大生命值0.3%的伤害，如果哈克装备了某个特殊装备则不会受到此负面效果。
 		/// </summary>
         public static string Buff_B_Haku_0 = "B_Haku_0";
 		/// <summary>
@@ -120,7 +120,7 @@ namespace haku
 		/// <summary>
 		/// 假面之人
 		/// 与假面的融合度超过25%时才能使用。
-		/// 与假面的融合度增加10%，变身成假面之人的真实形态，对所有敌人施加嘲讽，变身期间每回合获得强力群体攻击技能。
+		/// 与假面的融合度增加10%，变身成假面之人的真实形态，保护所有队友，变身期间每回合获得强力群体攻击技能。
 		/// </summary>
         public static string Skill_S_Haku_1 = "S_Haku_1";
 		/// <summary>
@@ -131,7 +131,7 @@ namespace haku
         public static string Skill_S_Haku_10 = "S_Haku_10";
 		/// <summary>
 		/// 天地豪掌
-		/// 对自身造成<color=purple>最大生命值30%的痛苦伤害</color>，自身每有1种增益，额外对敌人造成&a点伤害（基于攻击力）。如果哈克装备了某个特殊装备则不会对自身造成伤害。
+		/// 对自身造成<color=purple>最大生命值20%的痛苦伤害</color>，自身每有1种增益，额外对敌人造成&a点伤害（基于攻击力）。如果哈克装备了某个特殊装备则不会对自身造成伤害。
 		/// </summary>
         public static string Skill_S_Haku_1_0 = "S_Haku_1_0";
 		/// <summary>
@@ -140,7 +140,7 @@ namespace haku
         public static string Skill_S_Haku_2 = "S_Haku_2";
 		/// <summary>
 		/// 斗扇烈斩
-		/// 如果哈克装备了某个特殊装备则会根据增益数量追加释放该技能（最多追加三次）。
+		/// 如果哈克装备了某个特殊装备追加释放一次该技能，如果与假面完全融合则再追加释放一次。
 		/// </summary>
         public static string Skill_S_Haku_3 = "S_Haku_3";
 		/// <summary>
@@ -180,6 +180,11 @@ namespace haku
 		/// 与假面的融合度增加20%，并抽取2个技能。如果使用前已与假面完全融合，则恢复3点法力值
 		/// </summary>
         public static string Skill_S_Haku_9 = "S_Haku_9";
+		/// <summary>
+		/// 受假面之人的保护
+		/// 由&a代替承受攻击。
+		/// </summary>
+        public static string Buff_B_Haku_15 = "B_Haku_15";
 
     }
 

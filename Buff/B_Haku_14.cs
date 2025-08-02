@@ -21,8 +21,8 @@ namespace haku
         public override void Init()
         {
             base.Init();
-            this.PlusPerStat.Damage = (int)(0.5f * this.StackNum);
-            this.PlusPerStat.Heal = (int)(0.5f * this.StackNum);
+            this.PlusPerStat.Damage = (int)(0.3f * this.StackNum);
+            this.PlusPerStat.Heal = (int)(0.3f * this.StackNum);
         }
     }
 }
