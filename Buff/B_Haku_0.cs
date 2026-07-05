@@ -18,7 +18,7 @@ namespace haku
     /// </summary>
     public class B_Haku_0 : Buff, IP_PlayerTurn
     {
-        float Percent = 0.3f;
+        float Percent = 0.2f;
         public override void Init()
         {
             base.Init();

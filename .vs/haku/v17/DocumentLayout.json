@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|d:\\steam\\steamapps\\common\\chrono ark\\mod\\mod projects\\haku\\skill\\s_haku_1_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:skill\\s_haku_1_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|d:\\steam\\steamapps\\common\\chrono ark\\mod\\mod projects\\haku\\buff\\b_haku_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|solutionrelative:buff\\b_haku_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\buff\\b_haku_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:buff\\b_haku_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|d:\\steam\\steamapps\\common\\chrono ark\\mod\\mod projects\\haku\\buff\\b_haku_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|solutionrelative:buff\\b_haku_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|d:\\steam\\steamapps\\common\\chrono ark\\mod\\mod projects\\haku\\buff\\b_haku_15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:buff\\b_haku_15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|d:\\steam\\steamapps\\common\\chrono ark\\mod\\mod projects\\haku\\character\\p_haku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|solutionrelative:character\\p_haku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\skill\\s_haku_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:skill\\s_haku_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\item_equip\\ironfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|solutionrelative:item_equip\\ironfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\skill\\s_haku_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:skill\\s_haku_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\buff\\b_haku_14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:buff\\b_haku_14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\buff\\b_haku_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:buff\\b_haku_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\buff\\b_haku_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:buff\\b_haku_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\item_equip\\ironfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:item_equip\\ironfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\skill\\s_haku_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:skill\\s_haku_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\skill\\s_haku_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:skill\\s_haku_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\skill\\s_haku_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6FBF783-3AB1-48A4-9EEC-00AE2E8162F7}|haku.csproj|solutionrelative:skill\\s_haku_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\item_equip\\maskoftruth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935FC6F0-6A56-49FA-9C91-A9A589E22739}|haku.csproj|solutionrelative:item_equip\\maskoftruth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,27 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "S_Haku_1_0.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_1_0.cs",
-              "RelativeDocumentMoniker": "Skill\\S_Haku_1_0.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_1_0.cs",
-              "RelativeToolTip": "Skill\\S_Haku_1_0.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwFAAAAARAAAAAAAAAA==",
+              "Title": "B_Haku_2.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_2.cs",
+              "RelativeDocumentMoniker": "Buff\\B_Haku_2.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_2.cs",
+              "RelativeToolTip": "Buff\\B_Haku_2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:41:14.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "B_Haku_15.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_15.cs",
-              "RelativeDocumentMoniker": "Buff\\B_Haku_15.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_15.cs",
-              "RelativeToolTip": "Buff\\B_Haku_15.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:33:55.025Z",
+              "WhenOpened": "2026-07-05T14:03:08.718Z",
               "EditorCaption": ""
             },
             {
@@ -98,118 +57,47 @@
               "RelativeDocumentMoniker": "Buff\\B_Haku_0.cs",
               "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_0.cs",
               "RelativeToolTip": "Buff\\B_Haku_0.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvywAAACnAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:23:13.561Z",
+              "WhenOpened": "2026-07-05T14:01:45.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "S_Haku_0.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_0.cs",
-              "RelativeDocumentMoniker": "Skill\\S_Haku_0.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_0.cs",
-              "RelativeToolTip": "Skill\\S_Haku_0.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:23:08.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "S_Haku_8.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_8.cs",
-              "RelativeDocumentMoniker": "Skill\\S_Haku_8.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_8.cs",
-              "RelativeToolTip": "Skill\\S_Haku_8.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:15:21.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "S_Haku_7.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_7.cs",
-              "RelativeDocumentMoniker": "Skill\\S_Haku_7.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_7.cs",
-              "RelativeToolTip": "Skill\\S_Haku_7.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:15:18.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "S_Haku_3.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_3.cs",
-              "RelativeDocumentMoniker": "Skill\\S_Haku_3.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_3.cs",
-              "RelativeToolTip": "Skill\\S_Haku_3.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAEQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:14:12.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "B_Haku_14.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_14.cs",
-              "RelativeDocumentMoniker": "Buff\\B_Haku_14.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_14.cs",
-              "RelativeToolTip": "Buff\\B_Haku_14.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:28:50.507Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "S_Haku_1.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_1.cs",
-              "RelativeDocumentMoniker": "Skill\\S_Haku_1.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Skill\\S_Haku_1.cs",
-              "RelativeToolTip": "Skill\\S_Haku_1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwCwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:14:09.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "B_Haku_7.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_7.cs",
-              "RelativeDocumentMoniker": "Buff\\B_Haku_7.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_7.cs",
-              "RelativeToolTip": "Buff\\B_Haku_7.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:34:14.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "B_Haku_2.cs",
-              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_2.cs",
-              "RelativeDocumentMoniker": "Buff\\B_Haku_2.cs",
-              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Buff\\B_Haku_2.cs",
-              "RelativeToolTip": "Buff\\B_Haku_2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:32:25.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IronFan.cs",
               "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Item_Equip\\IronFan.cs",
               "RelativeDocumentMoniker": "Item_Equip\\IronFan.cs",
               "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Item_Equip\\IronFan.cs",
               "RelativeToolTip": "Item_Equip\\IronFan.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:24:54.696Z"
+              "WhenOpened": "2026-07-05T12:56:33.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P_Haku.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Character\\P_Haku.cs",
+              "RelativeDocumentMoniker": "Character\\P_Haku.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Character\\P_Haku.cs",
+              "RelativeToolTip": "Character\\P_Haku.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:46:15.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaskOfTruth.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Item_Equip\\MaskOfTruth.cs",
+              "RelativeDocumentMoniker": "Item_Equip\\MaskOfTruth.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\Chrono Ark\\Mod\\Mod Projects\\haku\\Item_Equip\\MaskOfTruth.cs",
+              "RelativeToolTip": "Item_Equip\\MaskOfTruth.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:43:40.782Z"
             }
           ]
         }

@@ -31,6 +31,7 @@ namespace haku
             }
         }
         private Item_Consume _MaskOfDeception;
+        private bool HakuOro = false;
         private int LV = 1;
         public override void Init()
         {
@@ -111,17 +112,24 @@ namespace haku
                 {
                     MaskOfDeception.StackCount = cnt;
                 }
+                if (cnt == 100 && !HakuOro)
+                {
+                    HakuOro = true;
+                    FieldSystem.DelayInput(this.RewardMask());
+                }
             }
         }
         public void LevelUp()
         {
             LV++;
             if (LV == 2)
+            {
                 FieldSystem.DelayInput(this.RewardMaskOfDeception());
+            }
             if (LV == 3)
+            {
                 FieldSystem.DelayInput(this.RewardFan());
-            if (LV == 6)
-                FieldSystem.DelayInput(this.RewardMask());
+            }
         }
         public IEnumerator RewardMaskOfDeception()
         {

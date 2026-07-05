@@ -5,7 +5,7 @@ namespace haku
     {
 		/// <summary>
 		/// 虚伪的假面
-		/// 与假面的融合度，每层会使哈克在回合开始时受到最大生命值0.3%的伤害，如果哈克装备了某个特殊装备则不会受到此负面效果。
+		/// 与假面的融合度，每层会使哈克在回合开始时受到最大生命值0.2%的伤害，如果哈克装备了某个特殊装备则不会受到此负面效果。
 		/// </summary>
         public static string Buff_B_Haku_0 = "B_Haku_0";
 		/// <summary>
@@ -36,6 +36,11 @@ namespace haku
 		/// 传颂的轮回
 		/// </summary>
         public static string Buff_B_Haku_14 = "B_Haku_14";
+		/// <summary>
+		/// 受假面之人的保护
+		/// 由&a代替承受攻击。
+		/// </summary>
+        public static string Buff_B_Haku_15 = "B_Haku_15";
 		/// <summary>
 		/// 扇毒
 		/// </summary>
@@ -177,14 +182,9 @@ namespace haku
         public static string Skill_S_Haku_8 = "S_Haku_8";
 		/// <summary>
 		/// 传颂之物
-		/// 与假面的融合度增加20%，并抽取2个技能。如果使用前已与假面完全融合，则恢复3点法力值
+		/// 与假面的融合度增加20%，并抽取2个技能。如果使用前已与假面完全融合，则恢复3点法力值。
 		/// </summary>
         public static string Skill_S_Haku_9 = "S_Haku_9";
-		/// <summary>
-		/// 受假面之人的保护
-		/// 由&a代替承受攻击。
-		/// </summary>
-        public static string Buff_B_Haku_15 = "B_Haku_15";
 
     }
 
